@@ -1,7 +1,7 @@
 {
     "name": "Sensor-Kit-ACE",
     "version": "0.0.1",
-    "description": "Extension for YahBoom YB_Module-World V0.0.1",
+    "description": "Sensorkit 16 in 1 by YahBoom ",
     "license": "MIT",
     "dependencies": {
         "core": "*",
